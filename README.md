@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics and automation
 - 🌱 I’m currently learning ROS with pythonh
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @prabakaranpkt77@gmail.com
+- 📫 reach me gmail prabakaranpkt77@gmail.com
 
 <!---
 Prabakaran13/Prabakaran13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
